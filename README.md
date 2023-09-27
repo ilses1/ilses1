@@ -1,4 +1,4 @@
-### Hi 我是ilses1🥰,这是我的自我介绍文件
+### Hi 我是ilses1🥰
 
 <!--
 **ilses1/ilses1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
