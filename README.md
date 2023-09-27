@@ -21,5 +21,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+### 📈 GitHub Activity Graph:
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ilses1&theme=vue-light)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilses1"></img>
+
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/ilses1/ilses1/output/github-contribution-grid-snake.svg)
 
