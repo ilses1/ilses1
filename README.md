@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h2>技术栈</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,nodejs,electron,react,vue,ts,webpack,vite,md,git" />
+    <img src="https://skillicons.dev/icons?i=go,rust,nodejs,python,electron,react,vue,ts,webpack,vite,md,git" />
   </a>
 </p>
 
